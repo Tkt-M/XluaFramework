@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1333895978
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a57540121e66cca0e4d251c624535ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BuildResources/UI/Res/MegamanZX_TestPic.jpg
+Dependencies: []

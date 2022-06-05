@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 758555053
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene/testscene.unity.ab
+      Dependencies: {}
+    Info_1:
+      Name: ui/res/darksoul_testpic.jpg.ab
+      Dependencies: {}
+    Info_2:
+      Name: ui/res/megamanzx_testpic.jpg.ab
+      Dependencies: {}
