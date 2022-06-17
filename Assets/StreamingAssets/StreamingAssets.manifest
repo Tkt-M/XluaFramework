@@ -1,18 +1,20 @@
 ManifestFileVersion: 0
-CRC: 1168436314
+CRC: 2782625562
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: scene/testscene.unity.ab
-      Dependencies:
-        Dependency_0: ui/prefabs/testprefab.prefab.ab
+      Name: luascripts/main.bytes.ab
+      Dependencies: {}
     Info_1:
-      Name: ui/prefabs/testprefab.prefab.ab
+      Name: scenes/testscene.unity.ab
+      Dependencies: {}
+    Info_2:
+      Name: ui/prefabs/login/loginui.prefab.ab
       Dependencies:
         Dependency_0: ui/res/megamanzx_testpic.jpg.ab
-    Info_2:
+    Info_3:
       Name: ui/res/darksoul_testpic.jpg.ab
       Dependencies: {}
-    Info_3:
+    Info_4:
       Name: ui/res/megamanzx_testpic.jpg.ab
       Dependencies: {}
